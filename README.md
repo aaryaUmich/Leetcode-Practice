@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0383-ransom-note) |
 ## Counting
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
