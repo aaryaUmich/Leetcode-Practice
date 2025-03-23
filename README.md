@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0383-ransom-note) |
+| [3227-find-missing-and-repeated-values](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
+| [3227-find-missing-and-repeated-values](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
+## Math
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/3227-find-missing-and-repeated-values) |
+## Matrix
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
