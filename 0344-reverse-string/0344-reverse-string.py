@@ -7,7 +7,9 @@ class Solution:
         last = len(s)-1
 
         while first<last:
-            s[first], s[last] = s[last], s[first]
+            temp = s[first]
+            s[first] = s[last]
+            s[last] = temp
             
             first+=1
             last-=1
