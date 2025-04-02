@@ -2,12 +2,13 @@ class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         map = {}
 
-        for i in range(0, len(nums)):
+        for i in range(0,len(nums)):
+            diff = target-nums[i]
+
             if nums[i] not in map:
-                diff = target-nums[i]
                 map[diff] = i
             else:
-                return [map[nums[i]], i]
+                return [i, map[nums[i]]]
                 
         
 
