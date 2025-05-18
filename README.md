@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0739-daily-temperatures](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0792-binary-search) |
 | [3227-find-missing-and-repeated-values](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0792-binary-search](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
