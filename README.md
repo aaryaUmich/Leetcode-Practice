@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0739-daily-temperatures](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [3227-find-missing-and-repeated-values](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0022-generate-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
