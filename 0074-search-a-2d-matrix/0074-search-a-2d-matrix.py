@@ -24,7 +24,7 @@ class Solution:
         l,r = 0, cols-1
 
         while l<=r:
-            middle = (l+r)//2
+            middle = l+(r-l)//2
 
             if target > matrix[rowToSearch][middle]:
                 l = middle+1
