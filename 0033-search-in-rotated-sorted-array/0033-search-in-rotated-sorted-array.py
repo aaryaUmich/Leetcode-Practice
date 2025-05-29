@@ -5,16 +5,15 @@ class Solution:
 
         while l<=r:
             mid = (l+r)//2
+            
             if nums[mid]==target:
                 return mid
-            
-            #left sorted portion
+            #left sorted 
             if nums[l]<=nums[mid]:
                 if target>nums[mid] or target<nums[l]:
                     l = mid+1
                 else:
                     r = mid-1
-            
             else:
                 if target<nums[mid] or target>nums[r]:
                     r = mid-1
