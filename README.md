@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
