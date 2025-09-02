@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3227-find-missing-and-repeated-values](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Backtracking
 |  |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
