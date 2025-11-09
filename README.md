@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0907-koko-eating-bananas) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/1349-check-if-it-is-a-straight-line) |
 | [3227-find-missing-and-repeated-values](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/1349-check-if-it-is-a-straight-line) |
 | [3227-find-missing-and-repeated-values](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0062-unique-paths) |
+## Geometry
+|  |
+| ------- |
+| [1349-check-if-it-is-a-straight-line](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/1349-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
