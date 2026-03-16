@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0344-reverse-string) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1349-check-if-it-is-a-straight-line](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/1349-check-if-it-is-a-straight-line) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
