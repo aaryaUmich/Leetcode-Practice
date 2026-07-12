@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0643-maximum-average-subarray-i](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0883-car-fleet) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0643-maximum-average-subarray-i) |
 ## Combinatorics
 |  |
 | ------- |
