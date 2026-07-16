@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0883-car-fleet) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0695-max-area-of-island](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [3227-find-missing-and-repeated-values](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -188,4 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0043-multiply-strings) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0695-max-area-of-island) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
