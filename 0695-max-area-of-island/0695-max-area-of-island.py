@@ -21,6 +21,7 @@ class Solution:
                 if grid[i][j]==1:
                     curr_val = dfs(i,j)
                 max_area = max(max_area, curr_val)
+                curr_val = 0
         
         return max_area
 
