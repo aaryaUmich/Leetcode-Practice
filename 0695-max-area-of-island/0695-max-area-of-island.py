@@ -19,7 +19,6 @@ class Solution:
         for i in range(height):
             for j in range(length):
                 if grid[i][j]==1:
-                    curr_val+=1
                     curr_val = dfs(i,j)
                 max_area = max(max_area, curr_val)
         
