@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0303-range-sum-query-immutable) |
 ## Dynamic Programming
@@ -223,4 +225,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0210-course-schedule-ii) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
