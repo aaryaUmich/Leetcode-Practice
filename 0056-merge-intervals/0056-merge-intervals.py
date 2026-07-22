@@ -4,7 +4,7 @@ class Solution:
         if len(intervals)==0:
             return []
 
-        intervals.sort(key = lambda i: i[0])
+        intervals.sort()
         res = []
 
         for interval in intervals:
