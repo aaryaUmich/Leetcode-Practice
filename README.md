@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0133-clone-graph](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0242-valid-anagram) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0210-course-schedule-ii) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0210-course-schedule-ii) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0210-course-schedule-ii) |
 ## Topological Sort
