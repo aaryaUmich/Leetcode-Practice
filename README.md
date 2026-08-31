@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0383-ransom-note) |
+| [0394-decode-string](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0539-minimum-time-difference](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0539-minimum-time-difference) |
 | [0981-time-based-key-value-store](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0981-time-based-key-value-store) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0883-car-fleet) |
 ## Design
@@ -258,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0146-lru-cache) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
