@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0875-koko-eating-bananas) |
 | [0883-car-fleet](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0907-koko-eating-bananas) |
+| [0973-k-closest-points-to-origin](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/1349-check-if-it-is-a-straight-line) |
 | [3227-find-missing-and-repeated-values](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0539-minimum-time-difference](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0539-minimum-time-difference) |
+| [0973-k-closest-points-to-origin](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/1349-check-if-it-is-a-straight-line) |
 | [3227-find-missing-and-repeated-values](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0539-minimum-time-difference](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0539-minimum-time-difference) |
 | [0883-car-fleet](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0883-car-fleet) |
+| [0973-k-closest-points-to-origin](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0973-k-closest-points-to-origin) |
 ## Tree
 |  |
 | ------- |
@@ -150,10 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -162,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0973-k-closest-points-to-origin) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -222,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Simulation
 |  |
@@ -264,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0394-decode-string) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
