@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0043-multiply-strings) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -275,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0973-k-closest-points-to-origin) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
