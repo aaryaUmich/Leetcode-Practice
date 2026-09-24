@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0907-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1631-path-with-minimum-effort](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [3227-find-missing-and-repeated-values](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0907-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0981-time-based-key-value-store) |
+| [1631-path-with-minimum-effort](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0733-flood-fill) |
+| [1631-path-with-minimum-effort](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [3227-find-missing-and-repeated-values](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
 |  |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0973-k-closest-points-to-origin) |
+| [1631-path-with-minimum-effort](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -249,11 +254,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0695-max-area-of-island) |
+| [1631-path-with-minimum-effort](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -294,4 +301,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
