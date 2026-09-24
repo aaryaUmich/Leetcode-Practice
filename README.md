@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0743-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0743-network-delay-time](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0210-course-schedule-ii) |
 | [0695-max-area-of-island](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0743-network-delay-time) |
 ## Union-Find
 |  |
 | ------- |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -282,4 +286,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
