@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1631-path-with-minimum-effort](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Backtracking
 |  |
 | ------- |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
@@ -268,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
 | ------- |
@@ -297,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
