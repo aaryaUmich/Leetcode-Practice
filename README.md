@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0539-minimum-time-difference](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0539-minimum-time-difference) |
+| [0542-01-matrix](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0733-flood-fill) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0733-flood-fill) |
 | [1631-path-with-minimum-effort](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0416-partition-equal-subset-sum](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0542-01-matrix](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Backtracking
 |  |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0210-course-schedule-ii) |
+| [0542-01-matrix](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0743-network-delay-time) |
