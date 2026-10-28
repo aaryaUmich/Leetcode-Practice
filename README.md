@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0383-ransom-note) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0136-single-number) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0695-max-area-of-island) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0079-word-search) |
 | [0133-clone-graph](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0207-course-schedule) |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/aaryaUmich/Leetcode-Practice/tree/master/0079-word-search) |
 ## Monotonic Stack
 |  |
 | ------- |
